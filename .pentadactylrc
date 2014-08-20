@@ -1,0 +1,9 @@
+colorscheme gruvbox-dark
+
+set guioptions=nsC
+
+map <F3> :set guioptions!=T<CR>
+
+map <A-s> :set nst!=<A-Tab>
+
+set editor='tvim +<line> +"sil! call cursor(0, <column>)" <file>'
