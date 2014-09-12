@@ -1,4 +1,4 @@
-colorscheme gruvbox-dark
+colorscheme gruvbox-dark-custom
 
 set guioptions=nsC
 
